@@ -22,3 +22,8 @@
     grid-column: 2/3;
     grid-row:3/6;
 }
+button {
+    background-color: aquamarine;
+    border: 1px solid black;
+     
+  }

@@ -20,3 +20,8 @@
     width: 310px;
     height: 140px;
     }
+    button {
+        background-color: aquamarine;
+        border: 1px solid black;
+         
+      }

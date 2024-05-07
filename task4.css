@@ -51,3 +51,8 @@ flex-direction: row;
     border: 10px solid black;
 
 } 
+button {
+    background-color: aquamarine;
+    border: 1px solid black;
+     
+  }

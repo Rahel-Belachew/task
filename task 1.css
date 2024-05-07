@@ -4,7 +4,7 @@
 .box{
     width: 100px;
     height: 100px;
-    background-color: brown;
+    background-color: rgb(205, 156, 156);
     border: 10px solid rgb(28, 24, 24);
     margin-top: 100px;
     margin-left: 100px;
@@ -14,4 +14,9 @@
 
     
 
+}
+button {
+  background-color: aquamarine;
+  border: 1px solid black;
+   
 }
