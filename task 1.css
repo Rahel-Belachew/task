@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(200, 166, 232);
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 10px solid rgb(28, 24, 24);
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-top: 10px;
+  
+
+
+    
+
+}
